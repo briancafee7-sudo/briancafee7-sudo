@@ -144,7 +144,7 @@
   <a href="mailto:brianborrajodev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/brian-borrajo-otalvaro-697757374/">
+  <a href="https://www.linkedin.com/in/brian-borrajo-otalvaro/?isSelfProfile=true">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
 </p>
