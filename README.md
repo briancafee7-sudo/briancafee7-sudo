@@ -29,7 +29,7 @@
 ---
 
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías que domino
 
 ### 💻 Lenguajes
 
