@@ -8,7 +8,7 @@
 <h1 align="center">👋 ¡Bienvenid@! Soy Brian</h1>
 
 <p align="center">
-  <strong>💻 Desarrollador de Software</strong>
+  <strong> Desarrollador de Software</strong>
 </p>
 
 <p align="center">
