@@ -1,3 +1,4 @@
+<img width="2056" height="765" alt="ChatGPT Image 7 oct 2026, 10_07_40 p m" src="https://github.com/user-attachments/assets/447db9c1-d096-4162-935c-0a7b5a658de9" />
 ## ¡Bienvenid@, mi nombre es Brian y este es mi GitHub!👋
 
 <!--
