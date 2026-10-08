@@ -1,17 +1,55 @@
 <img width="2056" height="765" alt="ChatGPT Image 7 oct 2026, 10_07_40 p m" src="https://github.com/user-attachments/assets/447db9c1-d096-4162-935c-0a7b5a658de9" />
-## ¡Bienvenid@, mi nombre es Brian y este es mi GitHub!👋
+ ¡Bienvenid@, mi nombre es Brian y este es mi GitHub!👋
 
-<!--
-**briancafee7-sudo/briancafee7-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Brian
 
-Here are some ideas to get you started:
+💻 Desarrollador apasionado por la tecnología y el desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta aprender nuevas tecnologías, crear proyectos y mejorar mis habilidades
+en el mundo del desarrollo.
+
+---
+
+## 🛠️ Tecnologías
+
+### 💻 Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+</p>
+
+### ⚙️ Frameworks y librerías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
+</p>
+
+### 🗄️ Bases de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### 🔧 Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+### 📌 Proyecto 1
+
+Descripción breve de tu proyecto.
+
+[Ver proyecto](https://github.com/)
+
+### 📌 Proyecto 2
+
+Descripción breve de tu proyecto.
+
+[Ver proyecto](https://github.com/)
+
+---
